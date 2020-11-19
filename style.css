@@ -1,5 +1,10 @@
- .body{
-   /* outline: groove; */
+*{
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}
+.body{
+   outline: groove;
    max-width: 100%;
  }
  .parent{
