@@ -16,7 +16,6 @@ header{
     text-align: center;
 }
 
-
 main{
     text-align: center;
 }
@@ -30,7 +29,7 @@ main{
 .foota{
   max-width: 100%;
   padding: 3%;
-  padding-left: 45%;
+  padding-left: 40%;
 }
 
 /* tablet*/
@@ -38,7 +37,13 @@ main{
   body{
       background-color: cadetblue;
   }
+  .parentcontainer{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-left: 9rem;
+  }
 }
+
 
 
 @media only screen and ( max-device-width:480px) {
