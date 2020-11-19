@@ -21,7 +21,7 @@ main{
 }
 
 .bigphoto{
-  width: 350px;
+  width: 320px;
   height: 300px;
   margin-left: 25px;
 }
@@ -51,6 +51,11 @@ main{
       background-color: blue;
       font-size: 40px;
       color: darkgray;
+  }
+  .parentcontainer{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-left: 9rem;
   }
 }
 
