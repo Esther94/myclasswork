@@ -37,11 +37,6 @@ main{
   body{
       background-color: cadetblue;
   }
-  .parentcontainer{
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    margin-left: 9rem;
-  }
 }
 
 
