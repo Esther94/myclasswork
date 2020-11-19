@@ -1,0 +1,46 @@
+ .body{
+   outline: groove;
+   max-width: 0 auto;
+ }
+ .parent{
+justify-content: center;
+}
+
+header{
+    text-align: center;
+}
+
+
+main{
+    text-align: center;
+}
+
+.bigphoto{
+  width: 350px;
+  height: 300px;
+  margin-left: 25px;
+}
+
+.foota{
+  max-width: 100%;
+  padding: 3%;
+  padding-left: 45%;
+}
+
+/* tablet*/
+@media only screen and (max-device-width:760px){
+  body{
+      background-color: cadetblue;
+  }
+}
+
+
+@media only screen and ( max-device-width:480px) {
+  p{
+      background-color: blue;
+      font-size: 40px;
+      color: darkgray;
+  }
+}
+
+
