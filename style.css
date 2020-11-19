@@ -51,10 +51,10 @@ main{
       background-color: blue;
       font-size: 40px;
       color: darkgray;
-}
+/* }
 iframe{
   display: none;
-}
+} */
 h1{
   width: 40%;
 }
