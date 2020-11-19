@@ -52,9 +52,9 @@ main{
       font-size: 40px;
       color: darkgray;
 }
-/* iframe{
+iframe{
   display: none;
-} */ */
+ }  
 h1{
   width: 40%;
 }
