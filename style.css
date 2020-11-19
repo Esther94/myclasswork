@@ -1,6 +1,6 @@
  .body{
-   outline: groove;
-   max-width: 0 auto;
+   /* outline: groove; */
+   max-width: 100%;
  }
  .parent{
 justify-content: center;
@@ -29,7 +29,7 @@ main{
 .foota{
   max-width: 100%;
   padding: 3%;
-  padding-left: 40%;
+  padding-left: 35%;
 }
 
 /* tablet*/
