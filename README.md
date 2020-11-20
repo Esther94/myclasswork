@@ -3,7 +3,7 @@ this classwork is about using source set, and how to embed videos and media
 
 ## 
 # Image
-![welcome interface.](asset/images/images/myproject.screenshot.PNG) "This is the cloned abercrombie website")
+![welcome interface.](asset/images/images/myproject.screenshot.PNG) "This is the outlook")
 
 # Built With
 * HTML
